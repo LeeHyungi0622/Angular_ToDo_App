@@ -10,6 +10,6 @@
 
 [https://leehyungi0622.github.io/2021/06/11/202106/210611-angular_study/](https://leehyungi0622.github.io/2021/06/11/202106/210611-angular_study/)
 
-**(2) Angular 등장배경과 Angular 프로젝트 생성**
+**(2) Angular - Angular 프로젝트의 실행흐름 이해하기, Module, Component, Template, 단방향 바인딩과 양방향 바인딩(React와 Angular 비교), Component의 스타일링**
 
 [https://leehyungi0622.github.io/2021/06/11/202106/210611-angular_study-1/](https://leehyungi0622.github.io/2021/06/11/202106/210611-angular_study-1/)
